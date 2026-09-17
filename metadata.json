@@ -1,0 +1,6 @@
+{
+  "name": "Star Chibi Village",
+  "description": "Game simulasi kehidupan 2D virtual pet santai dengan berkebun Star Plant, dekorasi rumah, belanja, dan interaksi warga desa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
